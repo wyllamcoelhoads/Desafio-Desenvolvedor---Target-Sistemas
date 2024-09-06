@@ -11,5 +11,4 @@ int main() {
     printf("%d\n", SOMA);
 
     return 0;
-    teste
 }
